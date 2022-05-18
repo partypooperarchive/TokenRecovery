@@ -1,3 +1,3 @@
 # TokenRecovery
 
-Tool for exporting protobuf classes in order of their tokens
+Tool for recovering protobuf packets arranged by token
